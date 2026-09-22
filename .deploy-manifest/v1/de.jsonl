@@ -1457,7 +1457,7 @@
 {"path":"de/jobs-in-appenzell/suche-gaste-gais/","hash":"e211fb1299a0e73397e24c9dd81e10f58244a651ecff9608badb1490295b7080"}
 {"path":"de/jobs-in-appenzell/suche-gaste-st-gallen/","hash":"ab5a646392d7cb059096c73cf29230def2c19cbc7397776c92c6879167b4fae1"}
 {"path":"de/jobs-in-appenzell/suche-gaste-wattwil/","hash":"e02457c1db41647e02f0e14dbc9ad0d1acc8c63c99c39fbd3e90771914844e09"}
-{"path":"de/jobs-in-appenzell/suche-gastronomie-st-gallen/","hash":"969d9462c5719f4de558219a4bd8eb6ee2f925cc42c311ca5d2e34ac2532fd03"}
+{"path":"de/jobs-in-appenzell/suche-gastronomie-st-gallen/","hash":"74aab95efa1dd967e4dd6925f229904b55ab2390c74efb5128abda6af7705191"}
 {"path":"de/jobs-in-appenzell/suche-gebaudetechnik-herisau/","hash":"1fe789d0de243401ee2b1236118d449bb69bf07997d444a0c1bd84cc6f3f12aa"}
 {"path":"de/jobs-in-appenzell/suche-gebaudetechnikplanung-herisau/","hash":"d595f7665cd5a3197a1fdbef9af84468bf1831ccc1737f3fad4831bf00414cb2"}
 {"path":"de/jobs-in-appenzell/suche-gerne-trun/","hash":"d06e28960f922dfa6f98fe794d6331350885a0034322e3e33d78eede59e51323"}
@@ -1476,16 +1476,16 @@
 {"path":"de/jobs-in-appenzell/suche-hamodialyse-sion/","hash":"374788680bac48633b89e9b52626a7ed958807bfd2b6b26f4afda9b90d9f5673"}
 {"path":"de/jobs-in-appenzell/suche-haus-wattwil/","hash":"6d715ae1adf6c774c952946d015e1bc6cb2d270092cea3c5a6b2f9ac5e30c5ad"}
 {"path":"de/jobs-in-appenzell/suche-heizung-herisau/","hash":"59466d80543bcc0638f3db8fb992f42bf3dd258cbc9bfaecbf6539f1f8d7c0c9"}
-{"path":"de/jobs-in-appenzell/suche-hotellerie-st-gallen/","hash":"cfdd5dc7541d1fa91dfac0b29312f28ccada8191f1871f1153da94b331934982"}
+{"path":"de/jobs-in-appenzell/suche-hotellerie-st-gallen/","hash":"97445559733bf43777f396029b56218c53420fec54be40cb12a7f1b644b34b41"}
 {"path":"de/jobs-in-appenzell/suche-hr-spezialist-kliniken-valens/","hash":"09c904b722f2f86cbed93667e3c6fd80e76e8a8001141d5f868ba1587cc781ee"}
 {"path":"de/jobs-in-appenzell/suche-idem-freiwilligenengagement-gais/","hash":"b8d4309e38fe2ea7a7cad24521c63c4efe18357daa2dc5b1f7c8f90e9e528550"}
 {"path":"de/jobs-in-appenzell/suche-idem-freiwilligenengagement-kliniken-valens/","hash":"8fbe41e577ebf0b469a5a379301fba2f2e76c29aefaa5df526c386ae2499bd7a"}
 {"path":"de/jobs-in-appenzell/suche-idem-freiwilligenengagement-requirements/","hash":"27ffc3c16efd5e8339d06aaac4324c86e39f4dac49176108be0ad9908de099b5"}
 {"path":"de/jobs-in-appenzell/suche-idem-freiwilligenengagement-salary-switzerland/","hash":"2ba07bdc4a771609e4be22119bd20512f663c49100ee5f7afe56635810036139"}
 {"path":"de/jobs-in-appenzell/suche-idem-freiwilligenengagement/","hash":"bc23ddee1c73927c1450438292b76fd44975993a1b443a7eba6e2ee7e9d41597"}
-{"path":"de/jobs-in-appenzell/suche-infotag-zur-ausbildung-als-kauffrau-gais/","hash":"bcbadb79a6d6b94b95f2d0e7f7958f995657219c125ec4b755a8584c2044ec51"}
+{"path":"de/jobs-in-appenzell/suche-infotag-zur-ausbildung-als-kauffrau-gais/","hash":"0ce2e5eb5f908c0d3f9f5bec4569046538309ff23dbeed36f5d7804546355e58"}
 {"path":"de/jobs-in-appenzell/suche-infotag-zur-ausbildung-als-kauffrau-kliniken-valens/","hash":"d714a02234634e92226bce2c77492507950133d6bc901ae186466f025c30ba11"}
-{"path":"de/jobs-in-appenzell/suche-infotag-zur-ausbildung-als-kauffrau/","hash":"42b43f579572e9d1ce169675cf1f2b46c7c9e75304f550799fb0b3f4556b60d1"}
+{"path":"de/jobs-in-appenzell/suche-infotag-zur-ausbildung-als-kauffrau/","hash":"4d261391f994cca58eb2792ed24804d7f6dd11b0b931aad4669bd36a08fecc2a"}
 {"path":"de/jobs-in-appenzell/suche-innen-herisau/","hash":"7d65ca75749221e2b3c4628263c11fe3c802a0e76f02907250e6861bd002aa43"}
 {"path":"de/jobs-in-appenzell/suche-innen-speicher/","hash":"8398810fdc26708dad2460f01d7fea596256ecc6ee505183db3a262265147d55"}
 {"path":"de/jobs-in-appenzell/suche-innen-walzenhausen/","hash":"908eec245d1d8707d6c723fc7bfa568f151d0b15063f4eacc6b14b65be34493b"}
@@ -1516,7 +1516,7 @@
 {"path":"de/jobs-in-appenzell/suche-lebensmitteln-gais/","hash":"3813a3f9ad769d70b2bfb6a086802a37f72674c0d22f71fe126de2ca470eba3d"}
 {"path":"de/jobs-in-appenzell/suche-lehrstelle-als-assistent-kliniken-valens/","hash":"82342a98b326a66290e5e05136e89ff14e8160d4b3f87b6ec3576b6dbbb4202a"}
 {"path":"de/jobs-in-appenzell/suche-lehrstelle-als-fachfrau-walzenhausen/","hash":"c6da4d300df0072b8ec9788f4184b40ffd2bde5d2862205ae144cd160a52e2db"}
-{"path":"de/jobs-in-appenzell/suche-lehrstelle-als-kauffrau-gais/","hash":"7f30868bd459766bb27d5aa7661c5abe130740ca2e8e4c40a741615f55e9766c"}
+{"path":"de/jobs-in-appenzell/suche-lehrstelle-als-kauffrau-gais/","hash":"abec458964cc8e0162772a2ffe425ddbd839f62cf39515f5638783adb13ac356"}
 {"path":"de/jobs-in-appenzell/suche-leiter-der-gastronomie-courtepin/","hash":"fcf9becb4f6e726cb585903685c21207ce99e6c6772f348b8550325b346d09b8"}
 {"path":"de/jobs-in-appenzell/suche-leiter-der-gastronomie/","hash":"ad219ade9578101a394f1230932a87377e269ec53b6debb0a075a0afbf866689"}
 {"path":"de/jobs-in-appenzell/suche-manager-fitnessclub-m-w-d-activ-fitness/","hash":"996a1a16d174c4267b106501ccac38f9f91e66fd3283e020d983a3f66d922c1d"}
